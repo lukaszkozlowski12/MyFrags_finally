@@ -1,0 +1,2 @@
+rootProject.name='MyFrags'
+include ':app'
